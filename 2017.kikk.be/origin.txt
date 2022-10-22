@@ -1,0 +1,556 @@
+Uri: https://2017.kikk.be/en
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/home
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\home.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/live
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\live.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/exhibition
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\exhibition.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/kikk-in-town
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\kikk-in-town.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/little-kikk
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\little-kikk.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/parties
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\parties.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/kikk-pro
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\kikk-pro.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/kikk-reboot
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\kikk-reboot.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/timetable
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\timetable.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/practical-details/move
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\practical-details\move.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/about
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\about.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/sponsors
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\sponsors.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences?filter=design
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/hello-monday
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\hello-monday.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/bruce-sterling
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\bruce-sterling.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/ingrid-burrington
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\ingrid-burrington.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/live?room=0
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\live-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/live?room=1
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\live-2.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences?filter=all
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences-2.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences?filter=talks
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences-3.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences?filter=french
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences-4.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences?filter=tech
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences-5.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/claudio-guglieri
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\claudio-guglieri.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/jifei-ou
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\jifei-ou.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/clare-patey
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\clare-patey.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/mario-klingemann
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\mario-klingemann.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/aude-degrassat
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\aude-degrassat.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/serial-cut
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\serial-cut.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/dries-depoorter
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\dries-depoorter.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/sara-hendren
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\sara-hendren.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/memo-akten
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\memo-akten.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/regine-debatty
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\regine-debatty.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/anne-horel
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\anne-horel.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/samuel-bianchini
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\samuel-bianchini.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/christopher-bauder
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\christopher-bauder.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/kelli-anderson
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\kelli-anderson.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/mr-bingo
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\mr-bingo.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/phoenix-perry-1
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\phoenix-perry-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/dogstudio
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\dogstudio.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/camille-bosque
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\camille-bosque.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/sigmasix
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\sigmasix.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/david-benque
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\david-benque.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/chevalvert
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\chevalvert.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/katherine-melancon
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\katherine-melancon.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/waltz-binaire
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\waltz-binaire.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/base-design
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\base-design.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/espadaysantacruz
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\espadaysantacruz.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/lynn-cherny
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\lynn-cherny.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/hannah-davis
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\hannah-davis.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/yan-breuleux
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\yan-breuleux.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/phoenix-perry-2
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\phoenix-perry-2.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/matthieu-lorrain
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\matthieu-lorrain.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/raphael-de-courville
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\raphael-de-courville.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/oscar-lhermitte-1
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\oscar-lhermitte-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/lava-lab
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\lava-lab.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/frederic-notet
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\frederic-notet.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/eleanor-harding
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\eleanor-harding.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/conferences/frederic-schwarz
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\conferences\frederic-schwarz.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/exhibition/robyn-moody
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\exhibition\robyn-moody.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/exhibition/lawrence-malstaf-vincent-malstaf
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\exhibition\lawrence-malstaf-vincent-malstaf.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/exhibition/benoit-felix
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\exhibition\benoit-felix.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/exhibition/benoit-felix-2
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\exhibition\benoit-felix-2.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/exhibition/lola-meotti
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\exhibition\lola-meotti.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/exhibition/quadrature
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\exhibition\quadrature.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/exhibition/lola-meotti-1
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\exhibition\lola-meotti-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/exhibition/dmitry-gelfand-evelina-domnitch
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\exhibition\dmitry-gelfand-evelina-domnitch.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/exhibition/ecal
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\exhibition\ecal.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/kikk-in-town/lawrence-malstaf
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\kikk-in-town\lawrence-malstaf.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/kikk-in-town/niklas-roy
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\kikk-in-town\niklas-roy.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/kikk-in-town/the-empathy-museum
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\kikk-in-town\the-empathy-museum.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/kikk-in-town/indianen
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\kikk-in-town\indianen.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/kikk-in-town/superbe
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\kikk-in-town\superbe.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/kikk-in-town/joanie-lemercier
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\kikk-in-town\joanie-lemercier.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/kikk-in-town/ecal-1
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\kikk-in-town\ecal-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/third-1
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\third-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/mod-duo-1
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\mod-duo-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/slice-of-life
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\slice-of-life.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/the-duo
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\the-duo.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/who-wants-to-be-a-self-driving-car
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\who-wants-to-be-a-self-driving-car.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/sensiks
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\sensiks.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/totemi
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\totemi.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/maximom
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\maximom.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/aryzon
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\aryzon.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/du-touch-s
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\du-touch-s.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/ritual
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\ritual.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/axoloti
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\axoloti.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/cloub
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\cloub.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/soundcool
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\soundcool.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/garagecube
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\garagecube.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/wattlight
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\wattlight.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/trakk
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\trakk.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/cowboy
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\cowboy.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/gamestream
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\gamestream.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/lataab
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\lataab.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/multi-project
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\multi-project.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/lexyz
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\lexyz.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/invineo
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\invineo.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/ono
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\ono.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/invisible-city-app
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\invisible-city-app.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/top-memo
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\top-memo.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/low-cost-myoelectric-hand-for-young-children
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\low-cost-myoelectric-hand-for-young-children.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/air-quality
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\air-quality.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/pole-jeu-video-namur
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\pole-jeu-video-namur.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/mesydel
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\mesydel.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/market/iot
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\market\iot.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/little-kikk/karina-smigla-bobinski
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\little-kikk\karina-smigla-bobinski.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/little-kikk/papertronics
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\little-kikk\papertronics.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/little-kikk/romain-et-florent-bodart
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\little-kikk\romain-et-florent-bodart.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/little-kikk/stoj
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\little-kikk\stoj.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/little-kikk/zach-lieberman
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\little-kikk\zach-lieberman.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops/phoenix-perry
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops\phoenix-perry.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops/waltz-binaire-1
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops\waltz-binaire-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops/nicolas-d-alessandro
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops\nicolas-d-alessandro.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops/oscar-lhermitte
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops\oscar-lhermitte.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops/neeeu
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops\neeeu.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops/hannah-davis-1
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops\hannah-davis-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops/kelli-anderson-1
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops\kelli-anderson-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops/lava-lab-1
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops\lava-lab-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops/closed-stoj-gene-kogan
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops\closed-stoj-gene-kogan.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops/chevalvert-1
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops\chevalvert-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops/antoine-goldschmidt
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops\antoine-goldschmidt.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops/cubetto
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops\cubetto.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/workshops/kodo
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\workshops\kodo.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/parties/kikk-live-at-cinex
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\parties\kikk-live-at-cinex.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/parties/kikk-electronic-at-bunker
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\parties\kikk-electronic-at-bunker.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/program/parties/kikk-x-ftrsnd-at-cinex
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\program\parties\kikk-x-ftrsnd-at-cinex.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/kikk-reboot/vincent-callebaut
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\kikk-reboot\vincent-callebaut.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/kikk-reboot/caroline-goulard
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\kikk-reboot\caroline-goulard.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/kikk-reboot/vincent-guimas
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\kikk-reboot\vincent-guimas.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/timetable?day=1
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\timetable-1.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/timetable?day=2
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\timetable-2.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/practical-details/sleep
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\practical-details\sleep.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/practical-details/eat
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\practical-details\eat.html
+Content Type: text/html
+
+Uri: https://2017.kikk.be/en/practical-details/drink
+File Name: c:\Downloaded Web Sites\2017.kikk.be\en\practical-details\drink.html
+Content Type: text/html
+
