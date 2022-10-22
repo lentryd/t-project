@@ -533,24 +533,3 @@ Content Type: text/html
 Uri: https://2017.kikk.be/en/kikk-reboot/vincent-guimas
 File Name: c:\Downloaded Web Sites\2017.kikk.be\en\kikk-reboot\vincent-guimas.html
 Content Type: text/html
-
-Uri: https://2017.kikk.be/en/timetable?day=1
-File Name: c:\Downloaded Web Sites\2017.kikk.be\en\timetable-1.html
-Content Type: text/html
-
-Uri: https://2017.kikk.be/en/timetable?day=2
-File Name: c:\Downloaded Web Sites\2017.kikk.be\en\timetable-2.html
-Content Type: text/html
-
-Uri: https://2017.kikk.be/en/practical-details/sleep
-File Name: c:\Downloaded Web Sites\2017.kikk.be\en\practical-details\sleep.html
-Content Type: text/html
-
-Uri: https://2017.kikk.be/en/practical-details/eat
-File Name: c:\Downloaded Web Sites\2017.kikk.be\en\practical-details\eat.html
-Content Type: text/html
-
-Uri: https://2017.kikk.be/en/practical-details/drink
-File Name: c:\Downloaded Web Sites\2017.kikk.be\en\practical-details\drink.html
-Content Type: text/html
-
