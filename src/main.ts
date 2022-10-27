@@ -1,5 +1,7 @@
-import { createApp } from 'vue'
-import App from './App.vue'
-import './registerServiceWorker'
+import { createApp } from "vue";
+import App from "./App.vue";
 
-createApp(App).mount('#app')
+import router from "@/plugins/router";
+import component from "@/plugins/component";
+
+createApp(App).use(router).use(component).mount("#app");
