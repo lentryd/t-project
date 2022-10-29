@@ -39,6 +39,7 @@
 					photo:
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description: 'Неизвестный. Занимался презентацией',
+					link: 'https://vk.com/id323230208',
 				},
 				{
 					name: 'Быковская\nАрина',
@@ -46,6 +47,7 @@
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description:
 						'Контент мейкер, любитель чипсов и кислого мармелада. Занималась презентацией',
+					link: 'https://vk.com/ton_soleil2304',
 				},
 				{
 					name: 'Григорова\nСофия',
@@ -53,6 +55,7 @@
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description:
 						'Менеджер, монтажер, фанат группы "КИШ". Занималась трейлером',
+					link: 'https://vk.com/sgrigorova16',
 				},
 				{
 					name: 'Дайкович\nЛада',
@@ -60,6 +63,7 @@
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description:
 						'Бизнесмен, менеджер, любитель капибар. Занималась презентацией',
+					link: 'https://vk.com/ladadaikovich',
 				},
 				{
 					name: 'Зайцев\nИлья',
@@ -67,12 +71,14 @@
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description:
 						'Диджей, музыкант, басист группы "Nirvana". Занимался озвучкой',
+					link: 'vk.com/ilyazed1',
 				},
 				{
 					name: 'Ивченко\nВиктор',
 					photo:
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description: 'Наркоторговец, плейбой, филантроп. Занимался сайтом',
+					link: 'https://vk.com/lentryd',
 				},
 				{
 					name: 'Кондратович\nЭвелина',
@@ -80,12 +86,14 @@
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description:
 						'Любит рыбку и царапать диван, кошка. Занималась презентацией, озвучкой и руководством процесса в Миро',
+					link: 'https://vk.com/velwell_ev',
 				},
 				{
 					name: 'Корита\nАндрей',
 					photo:
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description: 'Тони Старк. Занимался сайтом',
+					link: 'https://vk.com/carropite4ka',
 				},
 				{
 					name: 'Коротких\nЕвгений',
@@ -93,6 +101,7 @@
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description:
 						'Садовод, фермер, фасольных дел мастер. Занимался выгрузкой информации в Миро',
+					link: 'https://vk.com/evgeniq_korotkih',
 				},
 				{
 					name: 'Косых\nИлья',
@@ -100,6 +109,7 @@
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description:
 						'Дизайнер, нищеброд, студент. Занимался выгрузкой информации в Миро',
+					link: 'https://vk.com/impartialki',
 				},
 				{
 					name: 'Кучер\nАнтон',
@@ -107,6 +117,7 @@
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description:
 						'Гений, артист, главбух компании "Витамин". Занимался сайтом',
+					link: 'https://vk.com/anton_kucher',
 				},
 				{
 					name: 'Потягина\nАлина',
@@ -114,12 +125,14 @@
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description:
 						'Любитель чипсов. Занималась выгрузкой информации в Миро',
+					link: 'vk.com/murmuralinaa',
 				},
 				{
 					name: 'Стасюк\nЕгор',
 					photo:
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description: 'Жунгарик. Занимался озвучкой',
+					link: 'https://vk.com/egash1337',
 				},
 				{
 					name: 'Стаценко\nДарья',
@@ -127,6 +140,7 @@
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description:
 						'Танцор, еще кто-то там хз. Занималась трейлером и озвучкой',
+					link: 'https://vk.com/dstat',
 				},
 				{
 					name: 'Хаишбашян\nОльга',
@@ -134,6 +148,7 @@
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description:
 						'Ландшафтный дизайнер, разработчик медиа контента, любитель плюшевых единорогов. Занималась презентацией',
+					link: 'https://vk.com/id381851217',
 				},
 				{
 					name: 'Черников\nАлександр',
@@ -141,6 +156,7 @@
 						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
 					description:
 						'Саша, любитель зеленого липтона. Занимался выгрузкой информации в Миро',
+					link: 'https://vk.com/fikussanya',
 				},
 			] as Teammate[],
 		}),
