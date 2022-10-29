@@ -26,6 +26,8 @@ jobs:
         run: |
           cd dist
           cp index.html 404.html
+          touch CNAME
+          echo "avatar.lentryd.su" > CNAME
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
           git init
