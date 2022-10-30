@@ -159,57 +159,57 @@
 </script>
 
 <style lang="scss" scoped>
-	.info {
-		gap: 40px;
-		display: flex;
-		padding: 0 16px;
-		margin-top: -20vw;
-		flex-direction: row;
+.info {
+  gap: 40px;
+  display: flex;
+  padding: 0 16px;
+  margin-top: -20vw;
+  flex-direction: row;
 
-		@media screen and (max-width: 800px) {
-			margin-top: -20px;
-			flex-direction: column;
-		}
+  @media screen and (max-width: 800px) {
+    margin-top: -20px;
+    flex-direction: column;
+  }
 
-		.headline {
-			margin-top: 0px;
-			margin-left: 40px - 16px;
-			margin-bottom: 0;
-			flex-shrink: 0;
+  .headline {
+    margin-top: 0px;
+    margin-left: 40px - 16px;
+    margin-bottom: 0;
+    flex-shrink: 0;
 
-			@media screen and (max-width: 800px) {
-				margin-top: 0;
-			}
-		}
+    @media screen and (max-width: 800px) {
+      margin-top: 0;
+    }
+  }
 
-		span {
-			z-index: 1;
-			line-height: 1.6;
-		}
-	}
+  span {
+    z-index: 1;
+    line-height: 1.6;
+  }
+}
 
-	.teammates {
-		gap: 40px;
-		margin: 40px 0;
-		display: flex;
-		padding: 8px 16px;
-		flex-wrap: wrap;
-		flex-direction: row;
-		justify-content: center;
+.teammates {
+  gap: 40px;
+  margin: 40px 0;
+  display: flex;
+  padding: 8px 16px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
 
-		> * {
-			width: 100%;
+  > * {
+    width: 100%;
 
-			@media screen and (min-width: 600px) and (max-width: 900px) {
-				width: 45%;
-			}
-			@media screen and (min-width: 900px) {
-				width: 30%;
-			}
+    @media screen and (min-width: 600px) and (max-width: 900px) {
+      width: 45%;
+    }
+    @media screen and (min-width: 900px) {
+      width: 30%;
+    }
 
-			.teammate-container {
-				width: 100%;
-			}
-		}
-	}
+    .teammate-container {
+      width: 100%;
+    }
+  }
+}
 </style>
