@@ -1,161 +1,160 @@
 <template>
-	<Cover :path="require('@/assets/img/avatar_hand.png')" />
+  <Cover :path="require('@/assets/img/avatar_hand.png')" />
 
-	<div class="info">
-		<Headline>
-			Команда Сука блять<br />
-			придумайте название<br />
-			я хуй знает воображения ноль
-		</Headline>
+  <div class="info">
+    <Headline>
+      Команда Сука блять<br />
+      придумайте название<br />
+      я хуй знает воображения ноль
+    </Headline>
 
-		<span>
-			Каждый из нас вложил свою душу в этот проект. Сквозь слезы, пот и дедлайны
-			мы вместе прорвались через это препятствие и готовы также вместе дойти до
-			конца. Наша команда даст вам новые ощущения от известного фильма Аватар,
-			новые эмоции и новые мысли по поводу его смысла.
-		</span>
-	</div>
+    <span>
+      Каждый из нас вложил свою душу в этот проект. Сквозь слезы, пот и дедлайны
+      мы вместе прорвались через это препятствие и готовы также вместе дойти до
+      конца. Наша команда даст вам новые ощущения от известного фильма Аватар,
+      новые эмоции и новые мысли по поводу его смысла.
+    </span>
+  </div>
 
-	<div class="teammates">
-		<SwipeBlock v-for="t in teammates">
-			<Teammate v-bind="t" />
-		</SwipeBlock>
-	</div>
+  <div class="teammates">
+    <SwipeBlock v-for="t in teammates">
+      <Teammate v-bind="t" />
+    </SwipeBlock>
+  </div>
 </template>
 
 <script lang="ts">
-	import { defineComponent } from 'vue';
+import { defineComponent } from "vue";
 
-	type Teammate = {
-		name: string;
-		link?: string;
-		photo: string;
-		description: string;
-	};
+type Teammate = {
+  name: string;
+  link?: string;
+  photo: string;
+  description: string;
+};
 
-	export default defineComponent({
-		name: 'About',
+export default defineComponent({
+  name: "About",
 
-		data: () => ({
-			teammates: [
-				{
-					name: 'Агуреев\nДмитрий',
-					photo: require('@/assets/img/dima.jpg'),
-					description: 'Неизвестный. Занимался презентацией',
-					link: 'https://vk.com/id323230208',
-				},
-				{
-					name: 'Быковская\nАрина',
-					photo: require('../assets/img/arina.jpg'),
-					description:
-						'Контент мейкер, любитель чипсов и кислого мармелада. Занималась презентацией',
-					link: 'https://vk.com/ton_soleil2304',
-				},
-				{
-					name: 'Григорова\nСофия',
-					photo: require('../assets/img/sofia.jpg'),
-					description:
-						'Менеджер, монтажер, фанат группы "КИШ". Занималась трейлером',
-					link: 'https://vk.com/sgrigorova16',
-				},
-				{
-					name: 'Дайкович\nЛада',
-					photo: require('../assets/img/lada.jpg'),
-					description:
-						'Бизнесмен, менеджер, любитель капибар. Занималась презентацией',
-					link: 'https://vk.com/ladadaikovich',
-				},
-				{
-					name: 'Зайцев\nИлья',
-					photo: require('../assets/img/ilya_z.jpg'),
-					description:
-						'Диджей, музыкант, басист группы "Nirvana". Занимался озвучкой',
-					link: 'vk.com/ilyazed1',
-				},
-				{
-					name: 'Ивченко\nВиктор',
-					photo: require('../assets/img/victor.jpg'),
-					description: 'Наркоторговец, плейбой, филантроп. Занимался сайтом',
-					link: 'https://vk.com/lentryd',
-				},
-				{
-					name: 'Кондратович\nЭвелина',
-					photo:
-						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg', //Фото
-					description:
-						'Любит рыбку и царапать диван, кошка. Занималась презентацией, озвучкой и руководством процесса в Миро',
-					link: 'https://vk.com/velwell_ev',
-				},
-				{
-					name: 'Корита\nАндрей',
-					photo:
-						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg', //Фото
-					description: 'Тони Старк. Занимался сайтом',
-					link: 'https://vk.com/carropite4ka',
-				},
-				{
-					name: 'Коротких\nЕвгений',
-					photo:
-						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
-					description:
-						'Садовод, фермер, фасольных дел мастер. Занимался выгрузкой информации в Миро', //Фото
-					link: 'https://vk.com/evgeniq_korotkih',
-				},
-				{
-					name: 'Косых\nИлья',
-					photo:
-						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg', //Фото
-					description:
-						'Дизайнер, нищеброд, студент. Занимался выгрузкой информации в Миро',
-					link: 'https://vk.com/impartialki',
-				},
-				{
-					name: 'Кучер\nАнтон',
-					photo: require('../assets/img/anton.jpg'),
-					description:
-						'Гений, артист, главбух компании "Витамин". Занимался сайтом',
-					link: 'https://vk.com/anton_kucher',
-				},
-				{
-					name: 'Потягина\nАлина',
-					photo:
-						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg', //Фото
-					description:
-						'Любитель чипсов. Занималась выгрузкой информации в Миро',
-					link: 'vk.com/murmuralinaa',
-				},
-				{
-					name: 'Стасюк\nЕгор',
-					photo:
-						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg', //Фото
-					description: 'Жунгарик. Занимался озвучкой',
-					link: 'https://vk.com/egash1337',
-				},
-				{
-					name: 'Стаценко\nДарья',
-					photo: require('../assets/img/dasha.jpg'),
-					description:
-						'Танцор, еще кто-то там хз. Занималась трейлером и озвучкой',
-					link: 'https://vk.com/dstat',
-				},
-				{
-					name: 'Хаишбашян\nОльга',
-					photo: require('../assets/img/olya.jpg'),
-					description:
-						'Ландшафтный дизайнер, разработчик медиа контента, любитель плюшевых единорогов. Занималась презентацией',
-					link: 'https://vk.com/id381851217',
-				},
-				{
-					name: 'Черников\nАлександр',
-					photo:
-						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg', //Фото
-					description:
-						'Саша, любитель зеленого липтона. Занимался выгрузкой информации в Миро',
-					link: 'https://vk.com/fikussanya',
-				},
-			] as Teammate[],
-		}),
-	});
+  data: () => ({
+    teammates: [
+      {
+        name: "Агуреев\nДмитрий",
+        photo: require("@/assets/img/dima.jpg"),
+        description: "Неизвестный. Занимался презентацией",
+        link: "https://vk.com/id323230208",
+      },
+      {
+        name: "Быковская\nАрина",
+        photo: require("@/assets/img/arina.jpg"),
+        description:
+          "Контент мейкер, любитель чипсов и кислого мармелада. Занималась презентацией",
+        link: "https://vk.com/ton_soleil2304",
+      },
+      {
+        name: "Григорова\nСофия",
+        photo: require("@/assets/img/sofia.jpg"),
+        description:
+          'Менеджер, монтажер, фанат группы "КИШ". Занималась трейлером',
+        link: "https://vk.com/sgrigorova16",
+      },
+      {
+        name: "Дайкович\nЛада",
+        photo: require("@/assets/img/lada.jpg"),
+        description:
+          "Бизнесмен, менеджер, любитель капибар. Занималась презентацией",
+        link: "https://vk.com/ladadaikovich",
+      },
+      {
+        name: "Зайцев\nИлья",
+        photo: require("@/assets/img/ilya_z.jpg"),
+        description:
+          'Диджей, музыкант, басист группы "Nirvana". Занимался озвучкой',
+        link: "vk.com/ilyazed1",
+      },
+      {
+        name: "Ивченко\nВиктор",
+        photo: require("@/assets/img/victor.jpg"),
+        description: "Наркоторговец, плейбой, филантроп. Занимался сайтом",
+        link: "https://vk.com/lentryd",
+      },
+      {
+        name: "Кондратович\nЭвелина",
+        photo:
+          "https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg", //Фото
+        description:
+          "Любит рыбку и царапать диван, кошка. Занималась презентацией, озвучкой и руководством процесса в Миро",
+        link: "https://vk.com/velwell_ev",
+      },
+      {
+        name: "Корита\nАндрей",
+        photo:
+          "https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg", //Фото
+        description: "Тони Старк. Занимался сайтом",
+        link: "https://vk.com/carropite4ka",
+      },
+      {
+        name: "Коротких\nЕвгений",
+        photo:
+          "https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg",
+        description:
+          "Садовод, фермер, фасольных дел мастер. Занимался выгрузкой информации в Миро", //Фото
+        link: "https://vk.com/evgeniq_korotkih",
+      },
+      {
+        name: "Косых\nИлья",
+        photo:
+          "https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg", //Фото
+        description:
+          "Дизайнер, нищеброд, студент. Занимался выгрузкой информации в Миро",
+        link: "https://vk.com/impartialki",
+      },
+      {
+        name: "Кучер\nАнтон",
+        photo: require("@/assets/img/anton.jpg"),
+        description:
+          'Гений, артист, главбух компании "Витамин". Занимался сайтом',
+        link: "https://vk.com/anton_kucher",
+      },
+      {
+        name: "Потягина\nАлина",
+        photo:
+          "https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg", //Фото
+        description: "Любитель чипсов. Занималась выгрузкой информации в Миро",
+        link: "vk.com/murmuralinaa",
+      },
+      {
+        name: "Стасюк\nЕгор",
+        photo:
+          "https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg", //Фото
+        description: "Жунгарик. Занимался озвучкой",
+        link: "https://vk.com/egash1337",
+      },
+      {
+        name: "Стаценко\nДарья",
+        photo: require("@/assets/img/dasha.jpg"),
+        description:
+          "Танцор, еще кто-то там хз. Занималась трейлером и озвучкой",
+        link: "https://vk.com/dstat",
+      },
+      {
+        name: "Хаишбашян\nОльга",
+        photo: require("@/assets/img/olya.jpg"),
+        description:
+          "Ландшафтный дизайнер, разработчик медиа контента, любитель плюшевых единорогов. Занималась презентацией",
+        link: "https://vk.com/id381851217",
+      },
+      {
+        name: "Черников\nАлександр",
+        photo:
+          "https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg", //Фото
+        description:
+          "Саша, любитель зеленого липтона. Занимался выгрузкой информации в Миро",
+        link: "https://vk.com/fikussanya",
+      },
+    ] as Teammate[],
+  }),
+});
 </script>
 
 <style lang="scss" scoped>
