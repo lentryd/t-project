@@ -88,23 +88,20 @@
 				},
 				{
 					name: 'Корита\nАндрей',
-					photo:
-						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
+					photo: require('@/assets/img/andrey.jpg'),
 					description: 'Тони Старк. Занимался сайтом',
 					link: 'https://vk.com/carropite4ka',
 				},
 				{
 					name: 'Коротких\nЕвгений',
-					photo:
-						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
+					photo: require('@/assets/img/jenya.jpg'),
 					description:
 						'Садовод, фермер, фасольных дел мастер. Занимался выгрузкой информации в Миро',
 					link: 'https://vk.com/evgeniq_korotkih',
 				},
 				{
 					name: 'Косых\nИлья',
-					photo:
-						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
+					photo: require('@/assets/img/ilya_k.jpg'),
 					description:
 						'Дизайнер, нищеброд, студент. Занимался выгрузкой информации в Миро',
 					link: 'https://vk.com/impartialki',
@@ -118,16 +115,14 @@
 				},
 				{
 					name: 'Потягина\nАлина',
-					photo:
-						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
+					photo: require('@/assets/img/alina.jpg'),
 					description:
 						'Любитель чипсов. Занималась выгрузкой информации в Миро',
 					link: 'vk.com/murmuralinaa',
 				},
 				{
 					name: 'Стасюк\nЕгор',
-					photo:
-						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
+					photo: require('@/assets/img/egor.png'),
 					description: 'Жунгарик. Занимался озвучкой',
 					link: 'https://vk.com/egash1337',
 				},
@@ -147,8 +142,7 @@
 				},
 				{
 					name: 'Черников\nАлександр',
-					photo:
-						'https://2017.kikk.be/files/library/Kikk-Talk/Vignettes/Jifei-Ou(1).jpg',
+					photo: require('@/assets/img/sanya.jpg'),
 					description:
 						'Саша, любитель зеленого липтона. Занимался выгрузкой информации в Миро',
 					link: 'https://vk.com/fikussanya',
