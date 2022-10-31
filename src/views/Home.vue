@@ -4,6 +4,10 @@
   <Headline> What’s New <span>this year?</span> </Headline>
 
   <SwipeBlock>
+    <Player :path="require('@/assets/video/test.mp4')" />
+  </SwipeBlock>
+
+  <SwipeBlock>
     <Post
       image="https://2017.kikk.be/files/templates/kikk2017/public/assets//images/portals/kikk-pro.jpg"
       title="Название"
